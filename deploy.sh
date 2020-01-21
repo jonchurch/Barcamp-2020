@@ -8,4 +8,4 @@ git add .
 git commit -m "Automatic asset commit."
 git push origin gh-pages
 git checkout master
-gulp build
+yarn build
