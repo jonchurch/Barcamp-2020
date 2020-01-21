@@ -793,7 +793,7 @@ Where is BarCamp
     max-width: 900px;
     max-height: 535px;
     margin: 0 auto;
-    background-image: url("/uf-innovate.d0db512c.jpg"), linear-gradient(#cc208e 0%, #6713d2 100%);
+    background-image: url("/uf-innovate.eed63306.jpg"), linear-gradient(#cc208e 0%, #6713d2 100%);
     background-size: cover;
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.15); }
     .where-is-barcamp .location:hover:before {
@@ -879,7 +879,7 @@ Our Tracks
     padding: 32px;
     margin: 0;
     background-blend-mode: screen;
-    background-image: url("/photo-003.4e64eada.jpg"), linear-gradient(#cc208e 0%, #6713d2 100%);
+    background-image: url("/photo-003.bbd044a8.jpg"), linear-gradient(#cc208e 0%, #6713d2 100%);
     background-size: cover;
     min-height: 500px; }
     .our-tracks section:before, .our-tracks section:after {
@@ -1362,10 +1362,10 @@ body.cotton-candy header.hero .btn {
     border: 1px solid transparent; }
 
 body.cotton-candy .what-is-barcamp--left .photos-wrapper .photo--001 {
-  background-image: url(/photo-001.45803e9c.jpg), linear-gradient(#00dbde 0%, #fc00ff 100%); }
+  background-image: url(/photo-001.c77016a5.jpg), linear-gradient(#00dbde 0%, #fc00ff 100%); }
 
 body.cotton-candy .what-is-barcamp--left .photos-wrapper .photo--002 {
-  background-image: url(/photo-002.4dcabc5e.jpg), linear-gradient(#00dbde 0%, #fc00ff 100%); }
+  background-image: url(/photo-002.17518593.jpg), linear-gradient(#00dbde 0%, #fc00ff 100%); }
 
 body.cotton-candy .frequently-asked-question ul li:first-child:before,
 body.cotton-candy .frequently-asked-question ul:nth-child(2) li:last-child:before,
@@ -1378,10 +1378,10 @@ body.cotton-candy .our-sessions .session:after {
   background: #00dbde; }
 
 body.cotton-candy .where-is-barcamp .location {
-  background-image: url("/uf-innovate.d0db512c.jpg"), linear-gradient(#00dbde 0%, #fc00ff 100%); }
+  background-image: url("/uf-innovate.eed63306.jpg"), linear-gradient(#00dbde 0%, #fc00ff 100%); }
 
 body.cotton-candy .our-tracks section {
-  background-image: url("/photo-003.4e64eada.jpg"), linear-gradient(#00dbde 0%, #fc00ff 100%); }
+  background-image: url("/photo-003.bbd044a8.jpg"), linear-gradient(#00dbde 0%, #fc00ff 100%); }
 
 body.cotton-candy .our-tracks section ul li i,
 body.cotton-candy .our-sessions .session_content i {
@@ -1418,10 +1418,10 @@ body.sunset header.hero .btn {
     border: 1px solid transparent; }
 
 body.sunset .what-is-barcamp--left .photos-wrapper .photo--001 {
-  background-image: url(/photo-001.45803e9c.jpg), linear-gradient(#231557 0%, #44107A 30%, #FF1361 60%, #FFF800 100%); }
+  background-image: url(/photo-001.c77016a5.jpg), linear-gradient(#231557 0%, #44107A 30%, #FF1361 60%, #FFF800 100%); }
 
 body.sunset .what-is-barcamp--left .photos-wrapper .photo--002 {
-  background-image: url(/photo-002.4dcabc5e.jpg), linear-gradient(#231557 0%, #44107A 30%, #FF1361 60%, #FFF800 100%); }
+  background-image: url(/photo-002.17518593.jpg), linear-gradient(#231557 0%, #44107A 30%, #FF1361 60%, #FFF800 100%); }
 
 body.sunset .frequently-asked-question ul li:first-child:before,
 body.sunset .frequently-asked-question ul:nth-child(2) li:last-child:before,
@@ -1434,10 +1434,10 @@ body.sunset .our-sessions .session:after {
   background: #FFF800; }
 
 body.sunset .where-is-barcamp .location {
-  background-image: url("/uf-innovate.d0db512c.jpg"), linear-gradient(#231557 0%, #44107A 30%, #FF1361 60%, #FFF800 100%); }
+  background-image: url("/uf-innovate.eed63306.jpg"), linear-gradient(#231557 0%, #44107A 30%, #FF1361 60%, #FFF800 100%); }
 
 body.sunset .our-tracks section {
-  background-image: url("/photo-003.4e64eada.jpg"), linear-gradient(#231557 0%, #44107A 30%, #FF1361 60%, #FFF800 100%); }
+  background-image: url("/photo-003.bbd044a8.jpg"), linear-gradient(#231557 0%, #44107A 30%, #FF1361 60%, #FFF800 100%); }
 
 body.sunset .our-tracks section ul li i,
 body.sunset .our-sessions .session_content i {
@@ -1474,10 +1474,10 @@ body.mist header.hero .btn {
     border: 1px solid transparent; }
 
 body.mist .what-is-barcamp--left .photos-wrapper .photo--001 {
-  background-image: url(/photo-001.45803e9c.jpg), linear-gradient(#3d3393 0%, #2b76b9 30%, #2cacd1 60%, #35eb93 100%); }
+  background-image: url(/photo-001.c77016a5.jpg), linear-gradient(#3d3393 0%, #2b76b9 30%, #2cacd1 60%, #35eb93 100%); }
 
 body.mist .what-is-barcamp--left .photos-wrapper .photo--002 {
-  background-image: url(/photo-002.4dcabc5e.jpg), linear-gradient(#3d3393 0%, #2b76b9 30%, #2cacd1 60%, #35eb93 100%); }
+  background-image: url(/photo-002.17518593.jpg), linear-gradient(#3d3393 0%, #2b76b9 30%, #2cacd1 60%, #35eb93 100%); }
 
 body.mist .frequently-asked-question ul li:first-child:before,
 body.mist .frequently-asked-question ul:nth-child(2) li:last-child:before,
@@ -1490,10 +1490,10 @@ body.mist .our-sessions .session:after {
   background: #35eb93; }
 
 body.mist .where-is-barcamp .location {
-  background-image: url("/uf-innovate.d0db512c.jpg"), linear-gradient(#3d3393 0%, #2b76b9 30%, #2cacd1 60%, #35eb93 100%); }
+  background-image: url("/uf-innovate.eed63306.jpg"), linear-gradient(#3d3393 0%, #2b76b9 30%, #2cacd1 60%, #35eb93 100%); }
 
 body.mist .our-tracks section {
-  background-image: url("/photo-003.4e64eada.jpg"), linear-gradient(#3d3393 0%, #2b76b9 30%, #2cacd1 60%, #35eb93 100%); }
+  background-image: url("/photo-003.bbd044a8.jpg"), linear-gradient(#3d3393 0%, #2b76b9 30%, #2cacd1 60%, #35eb93 100%); }
 
 body.mist .our-tracks section ul li i,
 body.mist .our-sessions .session_content i {
