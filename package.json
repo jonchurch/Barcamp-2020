@@ -1,0 +1,22 @@
+{
+  "name": "Gainesvillebarcamp.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gainesville-Barcamp/Barcamp-2020",
+  "author": "Kyle Redon <kyle.redon@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --public-url ./"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "node-sass": "^4.12.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.1"
+  },
+  "dependencies": {
+    "yarn": "^1.21.1"
+  }
+}
