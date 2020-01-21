@@ -8,7 +8,7 @@
   "private": true,
   "scripts": {
     "start": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html --no-minify  --no-source-maps --public-url ./"
+    "build": "parcel build ./src/index.html --no-minify  --no-source-maps --out-dir ."
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
