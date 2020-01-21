@@ -2,6 +2,4 @@ src/*
 .cache/*
 node_modules/*
 .vscode/settings.json
-deploy.sh
-package.json
-package-lock.json
+
