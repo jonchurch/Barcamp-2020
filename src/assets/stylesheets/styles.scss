@@ -551,6 +551,7 @@ Our Tracks
 .our-tracks {
 
   .col-full {
+
     & > .photo-themes {
       position: relative;
       padding: $base-unit*2;
@@ -1265,11 +1266,11 @@ body.cotton-candy {
     background-image: url('../images/uf-innovate.jpg'), $cotton-candy;
   }
 
-  .our-tracks section {
+  .our-tracks .col-full .photo-themes {
     background-image: url('../images/photo-003.jpg'), $cotton-candy;
   }
 
-  .our-tracks section ul li i,
+  .our-tracks .col-full .photo-themes ul li i,
   .our-sessions .session_content i {
     background: barcamp-color('cotton-candy--secondary'); 
   }
@@ -1342,11 +1343,11 @@ body.sunset {
     background-image: url('../images/uf-innovate.jpg'), $sunset;
   }
 
-  .our-tracks section {
+  .our-tracks .col-full .photo-themes {
     background-image: url('../images/photo-003.jpg'), $sunset;
   }
 
-  .our-tracks section ul li i,
+  .our-tracks .col-full .photo-themes ul li i,
   .our-sessions .session_content i {
     background: barcamp-color('sunset--tertiary'); 
   }
@@ -1419,11 +1420,11 @@ body.mist {
     background-image: url('../images/uf-innovate.jpg'), $mist;
   }
 
-  .our-tracks section {
+  .our-tracks .col-full .photo-themes {
     background-image: url('../images/photo-003.jpg'), $mist;
   }
 
-  .our-tracks section ul li i,
+  .our-tracks .col-full .photo-themes ul li i,
   .our-sessions .session_content i {
     background: barcamp-color('mist--primary'); 
   }
