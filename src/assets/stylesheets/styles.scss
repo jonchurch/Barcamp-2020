@@ -824,6 +824,18 @@ Our Sessions
         background-size: cover;
         background-position: center;
       }
+
+      &--michelle-peter .session_vr  {
+        background: barcamp-color('specter') url(../images/michelle-peter.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+      }
+
+      &--watt .session_vr  {
+        background: barcamp-color('specter') url(../images/WATT.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+      }
     
     }
 
